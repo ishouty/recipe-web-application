@@ -1,0 +1,39 @@
+body {
+  margin: 0px;
+  font-family: sans-serif;
+  padding:0px;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+h3, h4 {
+  padding: 0px;
+  margin: 0px;
+  font-weight: bold;
+}
+
+a, a:visited {
+  color: '#000';
+}
+
+button {
+  border-radius: 10px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  width: 15rem;
+  height: 15rem;
+}
+
+.carousel-caption {
+  border-radius: 1em;
+  padding: 10px;
+  background-color: rgba(0,0,0,0.3);
+  bottom: 1rem;
+}
